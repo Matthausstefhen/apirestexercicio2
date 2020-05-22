@@ -1,0 +1,1 @@
+Projeto para aprendizagem da biblioteca [Express](https://github.com/expressjs/express) junto com o banco de dados [MongoDB](https://www.mongodb.com/) referente à disciplina de Web Service do curso Bacharelado em Sistemas de Informação da UNIFIP.
